@@ -12,4 +12,3 @@ public class Main {
           for (int i=0; i < number.length; i++){
         System.out.print(number[1]+",");
         }
-        }
