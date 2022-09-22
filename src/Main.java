@@ -14,7 +14,7 @@ public class Main {
          System.out.println("Задача 2");
          double [] numb = {1.57, 7.654, 9.986};
          for (double i=0; i < numb.length; i++){
-         Sysrem.out.print (numb [(int) i]+ ",");
+              Sysrem.out.print (numb [(int) i]+ ",");
         }
     }
 
@@ -22,6 +22,6 @@ public class Main {
         int [] numb1 = {3, 5, 18, 23, 34, 41, 54};
         for (int i=0; i < numd1.length; i++);
         System.out.print(numb1 [i] + ",");
-        System.out.println();
+            System.out.println();
         }
     }
