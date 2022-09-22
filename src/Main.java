@@ -3,7 +3,7 @@ public class Main {
     {
         System.out.println("Metod number");
     }
-}
+
           System.out.println("Задача 1");
           int [] number = new int[3];
           number [0] = 1;
